@@ -1,0 +1,141 @@
+{
+  "id": "section_project",
+  "type": "SharedSlice",
+  "name": "SectionProject",
+  "description": "SectionProject",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SectionProject",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "type": "StructuredText",
+            "single": "heading2"
+          },
+          "type": "StructuredText"
+        },
+        "description": {
+          "config": {
+            "label": "Description",
+            "placeholder": "A nice description of your product",
+            "allowTargetBlank": true,
+            "type": "StructuredText",
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "date": {
+          "type": "Date",
+          "config": {
+            "label": "",
+            "id": "date",
+            "placeholder": ""
+          }
+        },
+        "company": {
+          "config": {
+            "label": "Company",
+            "placeholder": "Company name",
+            "allowTargetBlank": true,
+            "type": "StructuredText",
+            "single": "heading3"
+          },
+          "type": "StructuredText"
+        },
+        "jobTitle": {
+          "config": {
+            "label": "Job Title",
+            "placeholder": "Senior Copywriter",
+            "type": "Text"
+          },
+          "type": "Text"
+        },
+        "externalLinkLabel": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "externalLinkLabel",
+            "placeholder": ""
+          }
+        },
+        "externalLink": {
+          "type": "Link",
+          "config": {
+            "label": "",
+            "id": "externalLink",
+            "placeholder": "",
+            "allowTargetBlank": true
+          }
+        },
+        "image": {
+          "type": "Image",
+          "config": {
+            "id": "image",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "imageAltText": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "imageAltText",
+            "placeholder": ""
+          }
+        },
+        "location": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "location",
+            "placeholder": ""
+          }
+        },
+        "tag": {
+          "config": {
+            "label": "Tag",
+            "placeholder": "Copywriting",
+            "type": "Text"
+          },
+          "type": "Text"
+        },
+        "projectType": {
+          "config": {
+            "label": "TagLink",
+            "placeholder": "Link to tag",
+            "type": "Link",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        }
+      },
+      "items": {
+        "RepeatableTag": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "RepeatableTag",
+            "placeholder": ""
+          }
+        },
+        "RepeatableTagLink": {
+          "type": "Link",
+          "config": {
+            "label": "",
+            "id": "RepeatableTagLink",
+            "placeholder": "",
+            "allowTargetBlank": true
+          }
+        }
+      }
+    }
+  ]
+}

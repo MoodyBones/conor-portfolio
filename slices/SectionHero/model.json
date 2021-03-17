@@ -1,0 +1,55 @@
+{
+  "id": "section_hero",
+  "type": "SharedSlice",
+  "name": "SectionHero",
+  "description": "SectionHero",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SectionHero",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "Greeting or name or whateverrr",
+            "allowTargetBlank": true,
+            "type": "StructuredText",
+            "single": "heading1"
+          },
+          "type": "StructuredText"
+        },
+        "description": {
+          "config": {
+            "label": "Description",
+            "placeholder": "A description. Write in MD",
+            "allowTargetBlank": true,
+            "type": "StructuredText",
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "buttonLabel": {
+          "config": {
+            "label": "Button label",
+            "placeholder": "Button text here",
+            "type": "Text"
+          },
+          "type": "Text"
+        },
+        "buttonLink": {
+          "config": {
+            "label": "Button Link",
+            "placeholder": "Link here",
+            "type": "Link",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "SectionHero": {
+    "primary": {
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      },
+      "description": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "buttonLabel": {
+        "content": null
+      }
+    }
+  },
+  "SectionProject": {
+    "primary": {
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      },
+      "description": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "company": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      },
+      "jobTitle": {
+        "content": null
+      },
+      "tag": {
+        "content": null
+      }
+    }
+  }
+}

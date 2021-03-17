@@ -1,0 +1,32 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SectionHero",
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Leverage real-time synergies",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Deserunt deserunt consequat dolor elit velit consequat fugiat pariatur dolore tempor sit ad ex ipsum proident. Laborum est laboris esse Lorem dolore ut non ea. Id Lorem ut in excepteur consectetur dolore reprehenderit anim.",
+          "spans": []
+        }
+      ],
+      "buttonLabel": "drive clicks-and-mortar initiatives",
+      "buttonLink": {
+        "link_type": "Web",
+        "url": "http://google.com"
+      }
+    },
+    "items": [],
+    "slice_type": "section_hero"
+  }
+]
