@@ -85,14 +85,10 @@
             d="M7 20l4-16m2 16l4-16M6 9h14M4 15h14"
           />
         </svg>
-        <prismic-link :field="slice.primary.projectType"
-          ><span>{{ slice.primary.tag }}</span></prismic-link
-        >
         <div v-for="(item, i) in slice.items" :key="`slice-item-${i}`">
-          <span>{{ item.RepeatableTag }}</span>
-        </div>
-        <div v-for="(item, i) in slice.items" :key="`slice-item-${i}`">
-          <prismic-link :field="item.RepeatableTagLink">My Link</prismic-link>
+          <prismic-link :field="item.RepeatableTagLink">
+            <span>{{ item.RepeatableTag }}</span>
+          </prismic-link>
         </div>
       </div>
     </div>

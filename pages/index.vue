@@ -1,6 +1,5 @@
 <template>
   <section>
-    <NuxtLink to="/CopywritingPage">Copywriting Page</NuxtLink>
     <slice-zone type="page" uid="home" />
   </section>
 </template>

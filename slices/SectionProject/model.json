@@ -57,6 +57,14 @@
           },
           "type": "Text"
         },
+        "location": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "location",
+            "placeholder": ""
+          }
+        },
         "externalLinkLabel": {
           "type": "Text",
           "config": {
@@ -90,31 +98,6 @@
             "id": "imageAltText",
             "placeholder": ""
           }
-        },
-        "location": {
-          "type": "Text",
-          "config": {
-            "label": "",
-            "id": "location",
-            "placeholder": ""
-          }
-        },
-        "tag": {
-          "config": {
-            "label": "Tag",
-            "placeholder": "Copywriting",
-            "type": "Text"
-          },
-          "type": "Text"
-        },
-        "projectType": {
-          "config": {
-            "label": "TagLink",
-            "placeholder": "Link to tag",
-            "type": "Link",
-            "allowTargetBlank": true
-          },
-          "type": "Link"
         }
       },
       "items": {

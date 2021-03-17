@@ -9,27 +9,28 @@
       "title": [
         {
           "type": "heading2",
-          "text": "Morph end-to-end action-items",
+          "text": "Enable end-to-end e-commerce",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Dolor in tempor consequat quis cillum velit labore pariatur ex aute. Id irure id aute esse aliqua laborum culpa enim voluptate amet cupidatat elit ad ut ipsum. Incididunt quis nostrud magna ipsum ipsum et aliqua proident.",
+          "text": "Dolor aliqua voluptate et cillum duis anim ullamco ad eu deserunt eu enim minim veniam. Nostrud laboris sit reprehenderit enim fugiat. Excepteur magna aute dolore elit duis eiusmod dolore anim pariatur ullamco ad est consectetur occaecat.",
           "spans": []
         }
       ],
-      "date": "2015-07-31",
+      "date": "2019-09-13",
       "company": [
         {
           "type": "heading3",
-          "text": "Reinvent interactive convergence",
+          "text": "Transform wireless platforms",
           "spans": []
         }
       ],
-      "jobTitle": "target collaborative models",
-      "externalLinkLabel": "strategize integrated content",
+      "jobTitle": "scale next-generation vortals",
+      "location": "morph efficient partnerships",
+      "externalLinkLabel": "morph next-generation synergies",
       "externalLink": {
         "link_type": "Web",
         "url": "http://google.com"
@@ -41,29 +42,30 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1607582278038-6bebbd4d7b72?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=900&h=500&fit=crop"
       },
-      "imageAltText": "incubate robust architectures",
-      "location": "engineer B2C methodologies",
-      "tag": "whiteboard turn-key e-services",
-      "projectType": {
-        "link_type": "Web",
-        "url": "http://google.com"
-      }
+      "imageAltText": "transition wireless e-business"
     },
     "items": [
       {
-        "RepeatableTag": "reintermediate cross-platform synergies",
+        "RepeatableTag": "transform seamless e-commerce",
         "RepeatableTagLink": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "http://google.com"
         }
       },
       {
-        "RepeatableTag": "reinvent virtual portals",
+        "RepeatableTag": "grow enterprise e-tailers",
         "RepeatableTagLink": {
           "link_type": "Web",
           "url": "http://twitter.com"
+        }
+      },
+      {
+        "RepeatableTag": "reinvent efficient e-commerce",
+        "RepeatableTagLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
         }
       }
     ],

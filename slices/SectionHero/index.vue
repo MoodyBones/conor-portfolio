@@ -7,7 +7,7 @@
         :field="slice.primary.title"
         class="font-bold text-7xl"
       />
-      <prismic-rich-text :field="slice.primary.description" class="text-6xl" />
+      <prismic-rich-text :field="slice.primary.description" class="text-4xl" />
 
       <prismic-link :field="slice.primary.buttonLink">
         <span class="uppercase tracking-wide text-2xl">{{
